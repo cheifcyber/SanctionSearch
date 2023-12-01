@@ -11,7 +11,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ## Usage
 
 `python3 search.py --update`
-` `
+
+
 `python3 search.py --name [name] --id [id] --schema [schema] --aliases [aliases] --birth_date [birth_date] --countries [countries] --addresses [addresses] --identifiers [identifiers] --sanctions [sanctions] --phones [phones] --emails [emails] --dataset [dataset] --first_seen [first_seen] --last_seen [last_seen] --last_change [last_change]`
 
 Replace the arguments in square brackets with the values you want to search for. You can use any combination of arguments. If you don't provide an argument, that field will not be searched.
